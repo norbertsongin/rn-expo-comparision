@@ -1,5 +1,5 @@
 {
-  "name": "expo-app",
+  "name": "rncli",
   "version": "1.0.0",
   "scripts": {
     "android": "react-native run-android",

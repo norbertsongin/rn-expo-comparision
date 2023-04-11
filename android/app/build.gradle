@@ -93,9 +93,9 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace "com.expoapp"
+    namespace "com.rncli"
     defaultConfig {
-        applicationId "com.expoapp"
+        applicationId "com.rncli"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
